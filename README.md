@@ -1,4 +1,4 @@
-# Lab 3 Railway-Reservation
+# Lab 3 Railway Reservation
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
