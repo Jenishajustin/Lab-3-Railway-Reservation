@@ -29,6 +29,7 @@ their tickets.
 #### Sequence diagram
 ![Screenshot 2024-04-21 142439](https://github.com/Jenishajustin/Lab-3-Railway-Reservation/assets/119405070/ffcb345b-62c1-419a-a2af-9c7034d85eec)
 #### Package diagram
+![hos](https://github.com/Jenishajustin/Lab-3-Railway-Reservation/assets/119405070/75c98cda-e241-482c-9349-af74258070c6)
 
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
